@@ -1,0 +1,41 @@
+,Archivo,Término,Tipo,Código CIE-10
+0,S1130-05582007000500007-1.txt,Tumoración mandibular,Diagnóstico,R22.0
+1,S1130-05582007000500007-1.txt,VHC positivo,Diagnóstico,B18.2
+2,S1130-05582007000500007-1.txt,VIH positivo,Diagnóstico,B20
+3,S1130-05582007000500007-1.txt,Tumor odontogénico epitelial calcificante,Diagnóstico,K09.0
+4,S1130-05582007000500007-1.txt,Hemimandibulectomía derecha,Procedimiento,0NB7XZZ
+5,S1130-05582007000500007-1.txt,Reconstrucción microquirúrgica con peroné,Procedimiento,0NMF0ZZ
+6,S1130-05582007000500007-1.txt,Tumor odontogénico epitelial calcificante de mandíbula,Diagnóstico,K09.0
+7,S1130-05582007000500007-1.txt,Infiltración de partes blandas periósticas,Diagnóstico,M89.7
+8,S1130-05582007000500007-1.txt,Biopsia intraoperatoria de ganglio de cadena facial,Procedimiento,0JH60ZZ
+9,S1130-05582007000500007-1.txt,No presentaba metástasis,Diagnóstico,Z85.830
+10,S1130-01082006000100014-1.txt,Enfermedad de Crohn,Diagnóstico,K50.9
+11,S1130-01082006000100014-1.txt,Meningitis por Listeria,Diagnóstico,A32.11
+12,S1130-01082006000100014-1.txt,Peritonitis intestinal secundaria,Diagnóstico,K65.9
+13,S1130-01082006000100014-1.txt,Perforación de íleon preterminal,Diagnóstico,K63.1
+14,S1130-01082006000100014-1.txt,Estenosis ileal,Diagnóstico,K56.60
+15,S1130-01082006000100014-1.txt,Resección íleo-cecal,Procedimiento,0DTN0ZZ
+16,S1130-01082006000100014-1.txt,Ileostomía terminal,Procedimiento,Z93.2
+17,S1130-01082006000100014-1.txt,Fístula mucosa de colon ascendente,Procedimiento,K63.2
+18,S1130-01082008001000010-1.txt,Ictericia mucocutánea,Diagnóstico,R17
+19,S1130-01082008001000010-1.txt,Coluria,Diagnóstico,R82.3
+20,S1130-01082008001000010-1.txt,Prurito,Diagnóstico,L29
+21,S1130-01082008001000010-1.txt,Hipercolesterolemia,Diagnóstico,E78.0
+22,S1130-01082008001000010-1.txt,Pancreatitis autoinmune,Diagnóstico,K86.1
+23,S1130-01082008001000010-1.txt,Fibrosis retroperitoneal,Diagnóstico,M35.4
+24,S1130-01082008001000010-1.txt,Colestasis,Diagnóstico,K83.1
+25,S1130-01082008001000010-1.txt,Neoplasia pancreática,Diagnóstico,C25
+26,S1130-01082008001000010-1.txt,Estenosis del colédoco distal,Diagnóstico,K83.1
+27,S1130-01082008001000010-1.txt,Dilatación de la vía biliar,Diagnóstico,K83.1
+28,S1130-01082008001000010-1.txt,Endoprótesis biliar,Procedimiento,0FJ44ZZ
+29,S1130-01082008001000010-1.txt,Drenaje biliar percutáneo,Procedimiento,0F9730Z
+30,S1130-01082008001000010-1.txt,Colangiografía,Procedimiento,B00
+31,S1130-01082008001000010-1.txt,Punción-aspiración,Procedimiento,0JH60ZX
+32,S1130-01082008001000010-1.txt,Colangiopancreatografía retrógrada endoscópica (CPRE),Procedimiento,0FC98ZZ
+33,S1135-76062016000100006-1.txt,Luxación de hombro,Diagnóstico,S43.0
+34,S1135-76062016000100006-1.txt,Retraso mental ligero,Diagnóstico,F70
+35,S1135-76062016000100006-1.txt,Inteligencia límite,Diagnóstico,R41.83
+36,S1135-76062016000100006-1.txt,Trastorno límite de personalidad,Diagnóstico,F60.3
+37,S0210-48062004000500008-1.txt,Priapismo,Diagnóstico,N48.3
+38,S0210-48062004000500008-1.txt,Leucemia mieloide crónica,Diagnóstico,C92.1
+39,S0210-48062004000500008-1.txt,Trasplante de médula ósea,Procedimiento,Z94.81
