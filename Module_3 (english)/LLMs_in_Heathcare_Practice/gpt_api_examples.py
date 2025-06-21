@@ -1,7 +1,7 @@
 import openai
 import os
 
-api_key = '***REMOVED***'
+api_key = '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'
 def ask_gpt4(prompt, model="gpt-4o", max_tokens=600):
     try:
 
